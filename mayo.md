@@ -1,14 +1,17 @@
-# Mayonaise
+# Mayonnaise
 
-Some history
+Mayonnaise is an emulsified sauce developed sometime in the 19th century, possibly deriving from a similar earlier creation.
 
 ## Ingredients
 
-- Ingredient 1 
-- Ingredient 2
+- Egg yolks
+- Oil
+- Lemon juice
 
 ## Instructions
 
-- Mix everything
-- Enjoy!
+- Whisk the eggs and lemon juice
+- Slowly add oil
+- Chill
+- Enjoy cold!
 
